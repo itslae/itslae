@@ -1,7 +1,7 @@
 ---
 home: true
 #heroImage: https://cs-wiki.oss-cn-shanghai.aliyuncs.com/img/20210212163625.png
-heroImage: https://cs-wiki.oss-cn-shanghai.aliyuncs.com/img/20220514093911.png
+heroImage: https://s1.ax1x.com/2022/06/13/X2LhfH.jpg
 heroText: Miami
 tagline: 📙 Henu
 actionText: Let's Go
