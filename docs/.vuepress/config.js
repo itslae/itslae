@@ -75,9 +75,9 @@ module.exports = {
     logo: 'https://cs-wiki.oss-cn-shanghai.aliyuncs.com/img/20220514093911.png', // 导航栏logo
     repo: 'veal98/cs-wiki', // 导航栏右侧生成Github链接
 
-    docsDir: 'vuepress-doc/docs',
+    // docsDir: 'vuepress-doc/docs',
     // 默认是 false, 设置为 true 来启用
-    editLinks: false,
+    // editLinks: false,
     // 默认为 "Edit this page"
     // editLinkText: '帮助小牛肉改善此页面',
 
