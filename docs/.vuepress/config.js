@@ -73,7 +73,7 @@ module.exports = {
     },
     
     logo: 'https://cs-wiki.oss-cn-shanghai.aliyuncs.com/img/20220514093911.png', // 导航栏logo
-    repo: 'veal98/cs-wiki', // 导航栏右侧生成Github链接
+    repo: 'itslae/itslae', // 导航栏右侧生成Github链接
 
     // docsDir: 'vuepress-doc/docs',
     // 默认是 false, 设置为 true 来启用
@@ -117,7 +117,7 @@ module.exports = {
     archive: true, // 是否打开归档功能，默认true。 如打开，会做的事情有：1.自动生成归档页面（在@pages文件夹）。如关闭，则反之。
 
     author: { // 文章默认的作者信息，可在md文件中单独配置此信息 String | {name: String, href: String}
-      name: '小牛肉', // 必需
+      name: 'itslae', // 必需
       // href: 'https://github.com/xugaoyi' // 可选的
     },
     // social: { // 社交图标，显示于博主信息栏和页脚栏
@@ -142,7 +142,7 @@ module.exports = {
     // },
     footer: { // 页脚信息
       createYear: 2019, // 博客创建年份
-      copyrightInfo: '小牛肉 | 心之所愿，素履以往', // 博客版权信息，支持a标签
+      copyrightInfo: 'itslae| 心之所愿，素履以往', // 博客版权信息，支持a标签
     },
 
     htmlModules, // 广告
